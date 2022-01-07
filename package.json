@@ -1,0 +1,22 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Generate Team mate profile cards",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Spotts91"
+  },
+  "author": "Spotts91",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.7"
+  }
+}
