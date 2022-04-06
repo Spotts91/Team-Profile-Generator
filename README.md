@@ -25,13 +25,7 @@ Picture of example HTML file:
 
 <img src ='images\team-generator.PNG' alt='Picture of example HTML file with team roster displayed'>
 
-Click the image below to watch a video demonstration:
-
-[![Video Demonstration](https://img.youtube.com/vi/AN2tbpBgTF0/0.jpg)](https://www.youtube.com/watch?v=AN2tbpBgTF0)
-
-## Test
-Click the image below to watch a video demonstration of the testing the files:
- [![Video Demonstration](https://img.youtube.com/vi/HCfJ2xHaP20/0.jpg)](https://www.youtube.com/watch?v=HCfJ2xHaP20)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AN2tallowfullscreen></iframe>bpBgTF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 
 ## License
 UCLA License
