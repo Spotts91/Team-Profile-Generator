@@ -25,7 +25,7 @@ Picture of example HTML file:
 
 <img src ='images\team-generator.PNG' alt='Picture of example HTML file with team roster displayed'>
 
-<iframe width="https://drive.google.com/file/d/1n6wFbiGVgovZM_swmRvkA7RkPAdh5Cuw/view" />
+<a href ="https://drive.google.com/file/d/1n6wFbiGVgovZM_swmRvkA7RkPAdh5Cuw/view" />
 
 ## License
 UCLA License
